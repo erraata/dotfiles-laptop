@@ -1,6 +1,6 @@
 [General]
 FreeFloating=true
-history=keepassxc,system,fire,f,sys,logout,reboot,konsole,dolphin,poweroff,exit,termite
+history=keepassxc,fire,system,f,sys,logout,reboot,konsole,dolphin,poweroff,exit,termite
 
 [PlasmaRunnerManager]
 LaunchCounts=2 services_firefox.desktop,1 windows_0_52428805,2 services_org.kde.konsole.desktop,1 services_systemsettings.desktop,1 services_org.keepassxc.KeePassXC.desktop,2 services_termite.desktop,2 desktopsessions_1,1 windows_0_2097159
